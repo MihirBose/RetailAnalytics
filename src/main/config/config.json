@@ -1,0 +1,15 @@
+{
+  "source": {
+    "path": "src/main/data/retail_data_500.csv",
+    "format": "csv"
+  },
+  "transformations": {
+    "filterColumn": "status",
+    "filterValue": "active"
+  },
+  "aggregations": {
+    "groupByColumn": "category",
+    "aggColumn": "amount",
+    "operation": "avg"
+  }
+}

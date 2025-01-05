@@ -1,0 +1,501 @@
+transaction_id,customer_id,category,product,quantity,amount,status
+1,103,Home & Kitchen,Blender,1,356,inactive
+2,111,Home & Kitchen,Toaster,3,285,active
+3,104,Clothing,Jeans,5,1415,active
+4,107,Electronics,Smartphone,1,167,inactive
+5,106,Clothing,Shorts,4,528,inactive
+6,105,Clothing,Sweater,3,720,active
+7,110,Clothing,Jacket,1,446,active
+8,112,Clothing,Shorts,2,248,inactive
+9,118,Electronics,Tablet,3,648,inactive
+10,109,Electronics,Laptop,5,1275,inactive
+11,119,Home & Kitchen,Mixer,5,1350,active
+12,110,Clothing,Jacket,1,427,active
+13,104,Electronics,Headphones,5,615,active
+14,114,Electronics,Tablet,5,1460,active
+15,107,Home & Kitchen,Coffee Maker,3,1251,inactive
+16,114,Electronics,Laptop,1,446,inactive
+17,109,Clothing,Jacket,5,2275,inactive
+18,110,Clothing,Shorts,1,331,inactive
+19,119,Home & Kitchen,Toaster,3,516,inactive
+20,105,Electronics,Laptop,5,2255,active
+21,109,Electronics,Smartwatch,1,485,inactive
+22,104,Home & Kitchen,Coffee Maker,2,556,inactive
+23,106,Clothing,Shorts,2,986,active
+24,110,Clothing,Shorts,4,1280,active
+25,104,Home & Kitchen,Microwave,2,568,active
+26,106,Home & Kitchen,Microwave,2,182,inactive
+27,102,Electronics,Laptop,5,755,inactive
+28,113,Clothing,Jeans,3,177,active
+29,110,Electronics,Headphones,1,96,active
+30,117,Electronics,Headphones,1,395,active
+31,111,Clothing,T-Shirt,3,966,active
+32,119,Home & Kitchen,Mixer,5,2075,active
+33,106,Electronics,Smartwatch,5,1300,inactive
+34,106,Clothing,Sweater,2,200,inactive
+35,102,Electronics,Tablet,5,395,active
+36,102,Home & Kitchen,Blender,1,340,inactive
+37,119,Electronics,Headphones,4,964,active
+38,102,Home & Kitchen,Blender,5,840,active
+39,109,Electronics,Smartwatch,3,171,active
+40,106,Clothing,Shorts,5,1955,active
+41,110,Home & Kitchen,Microwave,3,291,inactive
+42,117,Home & Kitchen,Blender,4,316,inactive
+43,102,Electronics,Smartphone,5,2285,inactive
+44,110,Clothing,Sweater,3,381,active
+45,105,Home & Kitchen,Toaster,1,114,inactive
+46,115,Clothing,Sweater,5,1900,active
+47,120,Clothing,T-Shirt,1,288,inactive
+48,119,Electronics,Laptop,4,1696,inactive
+49,114,Clothing,Jeans,5,1755,active
+50,107,Electronics,Headphones,1,210,inactive
+51,113,Electronics,Headphones,2,650,active
+52,110,Clothing,Jacket,4,1860,inactive
+53,119,Electronics,Tablet,5,1280,inactive
+54,116,Home & Kitchen,Microwave,2,92,active
+55,112,Electronics,Smartphone,2,826,active
+56,114,Home & Kitchen,Blender,4,564,inactive
+57,120,Electronics,Smartphone,5,2425,active
+58,116,Clothing,Jacket,1,142,inactive
+59,103,Clothing,Sweater,1,218,inactive
+60,118,Home & Kitchen,Toaster,1,468,active
+61,119,Clothing,Jeans,3,780,active
+62,110,Electronics,Tablet,3,1470,active
+63,114,Electronics,Smartwatch,3,219,inactive
+64,114,Home & Kitchen,Mixer,4,872,inactive
+65,101,Electronics,Laptop,4,1692,active
+66,116,Home & Kitchen,Microwave,2,524,active
+67,116,Electronics,Smartphone,3,1002,inactive
+68,118,Clothing,T-Shirt,1,33,inactive
+69,113,Electronics,Laptop,4,1280,active
+70,116,Home & Kitchen,Toaster,4,480,inactive
+71,115,Electronics,Smartwatch,3,1401,active
+72,106,Electronics,Tablet,1,401,inactive
+73,103,Clothing,Sweater,5,2175,inactive
+74,101,Electronics,Smartwatch,2,732,inactive
+75,105,Clothing,Jeans,1,447,active
+76,111,Clothing,Sweater,5,965,active
+77,109,Clothing,Sweater,2,744,inactive
+78,118,Electronics,Tablet,5,2085,inactive
+79,116,Electronics,Headphones,1,79,active
+80,111,Home & Kitchen,Microwave,1,293,active
+81,117,Home & Kitchen,Toaster,2,612,active
+82,107,Home & Kitchen,Mixer,3,969,active
+83,117,Electronics,Tablet,4,1244,active
+84,109,Home & Kitchen,Microwave,3,1029,active
+85,120,Home & Kitchen,Mixer,2,152,inactive
+86,113,Clothing,Jacket,4,508,active
+87,110,Home & Kitchen,Mixer,1,421,active
+88,104,Electronics,Tablet,2,452,inactive
+89,110,Home & Kitchen,Blender,2,334,inactive
+90,112,Home & Kitchen,Mixer,3,549,inactive
+91,107,Clothing,Jacket,5,765,inactive
+92,101,Home & Kitchen,Microwave,3,669,inactive
+93,113,Clothing,Jacket,2,98,inactive
+94,103,Home & Kitchen,Toaster,2,396,active
+95,102,Clothing,Jeans,4,884,active
+96,108,Electronics,Smartphone,3,693,inactive
+97,112,Home & Kitchen,Coffee Maker,4,1916,active
+98,106,Electronics,Smartphone,5,260,inactive
+99,105,Electronics,Smartphone,1,258,inactive
+100,118,Electronics,Smartwatch,2,260,inactive
+101,113,Home & Kitchen,Blender,1,210,active
+102,119,Home & Kitchen,Blender,2,954,inactive
+103,119,Home & Kitchen,Coffee Maker,1,208,active
+104,103,Clothing,Jeans,4,1112,active
+105,117,Electronics,Smartphone,3,198,inactive
+106,101,Clothing,Sweater,2,994,active
+107,102,Electronics,Smartwatch,4,1760,inactive
+108,113,Electronics,Headphones,1,133,active
+109,109,Electronics,Laptop,2,532,inactive
+110,108,Clothing,Jacket,2,178,inactive
+111,116,Home & Kitchen,Coffee Maker,4,1452,inactive
+112,108,Home & Kitchen,Blender,4,1032,inactive
+113,112,Electronics,Tablet,2,576,active
+114,110,Home & Kitchen,Coffee Maker,2,192,active
+115,110,Clothing,Shorts,3,267,active
+116,112,Electronics,Smartphone,1,400,inactive
+117,104,Clothing,Shorts,3,534,active
+118,112,Home & Kitchen,Toaster,1,179,active
+119,113,Home & Kitchen,Blender,1,367,active
+120,108,Clothing,Sweater,1,263,active
+121,114,Home & Kitchen,Toaster,4,80,active
+122,110,Home & Kitchen,Microwave,3,231,inactive
+123,115,Home & Kitchen,Toaster,2,142,active
+124,111,Clothing,Sweater,2,534,active
+125,114,Electronics,Tablet,1,343,inactive
+126,109,Electronics,Laptop,3,1458,inactive
+127,103,Clothing,Sweater,4,452,inactive
+128,113,Home & Kitchen,Microwave,1,294,inactive
+129,108,Electronics,Headphones,3,735,active
+130,103,Clothing,Jacket,5,1090,active
+131,110,Clothing,Shorts,3,708,active
+132,109,Home & Kitchen,Blender,5,2190,active
+133,113,Home & Kitchen,Mixer,3,156,active
+134,103,Electronics,Smartwatch,5,895,active
+135,117,Home & Kitchen,Mixer,5,1175,inactive
+136,120,Home & Kitchen,Blender,4,940,active
+137,118,Home & Kitchen,Mixer,5,235,inactive
+138,102,Home & Kitchen,Mixer,3,1464,inactive
+139,104,Clothing,Jeans,4,572,active
+140,104,Clothing,Shorts,5,325,inactive
+141,102,Home & Kitchen,Coffee Maker,5,130,active
+142,108,Electronics,Tablet,2,120,active
+143,112,Electronics,Laptop,2,556,active
+144,115,Electronics,Smartphone,2,950,active
+145,113,Electronics,Headphones,3,243,active
+146,106,Home & Kitchen,Mixer,2,418,active
+147,102,Home & Kitchen,Microwave,1,244,inactive
+148,117,Clothing,T-Shirt,2,462,active
+149,119,Electronics,Tablet,4,1100,inactive
+150,118,Electronics,Smartphone,2,642,active
+151,119,Clothing,Shorts,1,37,inactive
+152,102,Electronics,Laptop,1,408,inactive
+153,109,Clothing,Sweater,5,620,active
+154,101,Electronics,Smartphone,3,600,active
+155,103,Electronics,Tablet,1,130,inactive
+156,119,Clothing,Jeans,3,387,inactive
+157,110,Clothing,Shorts,1,407,inactive
+158,101,Clothing,Shorts,1,185,active
+159,105,Electronics,Laptop,3,999,inactive
+160,115,Home & Kitchen,Blender,4,156,inactive
+161,108,Electronics,Smartwatch,4,908,active
+162,101,Home & Kitchen,Blender,2,644,active
+163,112,Electronics,Smartphone,4,424,active
+164,102,Home & Kitchen,Blender,3,1224,inactive
+165,111,Home & Kitchen,Mixer,4,1720,active
+166,114,Clothing,Sweater,2,392,inactive
+167,116,Clothing,Shorts,5,765,inactive
+168,112,Home & Kitchen,Mixer,2,244,active
+169,117,Electronics,Smartwatch,3,192,inactive
+170,110,Clothing,T-Shirt,5,2415,inactive
+171,104,Clothing,Sweater,2,756,active
+172,117,Electronics,Smartphone,5,135,active
+173,103,Clothing,Jacket,1,105,inactive
+174,118,Home & Kitchen,Mixer,1,160,inactive
+175,107,Home & Kitchen,Mixer,4,1228,active
+176,111,Home & Kitchen,Mixer,2,132,active
+177,106,Electronics,Tablet,5,775,inactive
+178,120,Electronics,Smartwatch,3,330,active
+179,120,Electronics,Headphones,3,1236,inactive
+180,101,Electronics,Laptop,3,915,inactive
+181,110,Home & Kitchen,Coffee Maker,4,552,inactive
+182,112,Home & Kitchen,Microwave,3,1452,active
+183,113,Home & Kitchen,Blender,4,508,active
+184,104,Clothing,T-Shirt,1,213,inactive
+185,112,Clothing,Jacket,2,110,inactive
+186,114,Home & Kitchen,Microwave,1,184,active
+187,107,Electronics,Headphones,1,278,active
+188,113,Clothing,Shorts,3,762,inactive
+189,116,Clothing,T-Shirt,5,1645,active
+190,119,Home & Kitchen,Coffee Maker,2,538,active
+191,103,Home & Kitchen,Microwave,5,2460,inactive
+192,104,Electronics,Smartwatch,5,1975,active
+193,106,Home & Kitchen,Toaster,5,995,inactive
+194,111,Clothing,T-Shirt,2,710,inactive
+195,117,Electronics,Tablet,3,1374,active
+196,120,Home & Kitchen,Microwave,3,1431,active
+197,104,Clothing,Jacket,3,981,active
+198,105,Clothing,Sweater,4,1684,active
+199,101,Home & Kitchen,Blender,1,105,active
+200,104,Electronics,Tablet,3,930,active
+201,117,Electronics,Laptop,3,1233,active
+202,102,Clothing,Jacket,5,430,inactive
+203,108,Electronics,Smartphone,3,192,inactive
+204,119,Home & Kitchen,Mixer,5,1330,active
+205,114,Clothing,Jacket,4,1692,inactive
+206,114,Electronics,Smartphone,5,1565,active
+207,106,Clothing,T-Shirt,1,454,active
+208,107,Clothing,T-Shirt,2,98,inactive
+209,112,Clothing,Sweater,3,483,active
+210,116,Electronics,Laptop,1,448,inactive
+211,107,Home & Kitchen,Coffee Maker,3,87,active
+212,118,Clothing,Sweater,1,451,inactive
+213,104,Electronics,Tablet,5,235,active
+214,103,Electronics,Tablet,2,182,inactive
+215,118,Electronics,Smartwatch,5,1985,inactive
+216,113,Home & Kitchen,Toaster,5,395,inactive
+217,110,Home & Kitchen,Mixer,1,84,inactive
+218,107,Clothing,Shorts,4,728,active
+219,113,Electronics,Smartphone,1,141,inactive
+220,103,Home & Kitchen,Toaster,2,458,inactive
+221,116,Clothing,T-Shirt,5,1345,active
+222,104,Electronics,Smartwatch,4,1136,inactive
+223,109,Electronics,Smartwatch,1,433,inactive
+224,110,Clothing,Shorts,3,642,inactive
+225,104,Clothing,Jeans,3,987,active
+226,110,Home & Kitchen,Mixer,5,335,active
+227,116,Home & Kitchen,Toaster,4,1352,inactive
+228,109,Electronics,Headphones,5,1505,active
+229,105,Electronics,Tablet,1,203,active
+230,116,Electronics,Laptop,3,1359,active
+231,106,Clothing,Jeans,4,1308,active
+232,102,Electronics,Tablet,2,368,inactive
+233,105,Clothing,Shorts,1,142,active
+234,103,Electronics,Smartphone,1,325,inactive
+235,114,Home & Kitchen,Microwave,5,905,inactive
+236,120,Home & Kitchen,Toaster,3,438,inactive
+237,116,Electronics,Smartphone,5,320,active
+238,119,Home & Kitchen,Coffee Maker,2,558,active
+239,113,Electronics,Tablet,4,604,active
+240,116,Electronics,Tablet,4,1032,inactive
+241,103,Electronics,Headphones,4,1656,active
+242,120,Home & Kitchen,Microwave,2,774,inactive
+243,116,Clothing,Shorts,3,102,inactive
+244,102,Electronics,Headphones,4,1036,inactive
+245,118,Clothing,Jeans,3,1425,active
+246,112,Electronics,Smartwatch,5,640,inactive
+247,114,Home & Kitchen,Coffee Maker,1,355,active
+248,105,Electronics,Smartphone,5,1215,active
+249,105,Clothing,Sweater,3,921,inactive
+250,110,Clothing,Shorts,2,522,active
+251,119,Clothing,Sweater,3,624,active
+252,113,Electronics,Smartwatch,2,90,active
+253,105,Electronics,Laptop,2,344,active
+254,114,Electronics,Smartphone,4,220,active
+255,112,Electronics,Headphones,1,161,active
+256,112,Clothing,Sweater,5,2445,inactive
+257,111,Electronics,Tablet,4,324,active
+258,120,Home & Kitchen,Toaster,1,277,active
+259,120,Electronics,Smartphone,3,1434,active
+260,117,Clothing,Jacket,2,428,inactive
+261,116,Home & Kitchen,Microwave,1,169,active
+262,102,Clothing,Jeans,3,852,inactive
+263,108,Electronics,Headphones,5,420,active
+264,108,Clothing,T-Shirt,4,652,active
+265,114,Home & Kitchen,Blender,2,66,active
+266,120,Electronics,Smartwatch,1,346,active
+267,101,Electronics,Tablet,4,1356,active
+268,116,Home & Kitchen,Microwave,3,621,inactive
+269,115,Electronics,Laptop,1,394,active
+270,104,Electronics,Headphones,3,855,active
+271,114,Clothing,Shorts,5,1205,active
+272,102,Electronics,Laptop,3,1449,active
+273,105,Clothing,Jeans,2,458,active
+274,102,Clothing,Sweater,2,260,active
+275,107,Home & Kitchen,Blender,2,212,active
+276,102,Home & Kitchen,Toaster,5,795,active
+277,114,Clothing,Shorts,4,1196,inactive
+278,110,Clothing,Jacket,5,1055,active
+279,106,Clothing,T-Shirt,1,313,inactive
+280,108,Home & Kitchen,Microwave,3,1080,inactive
+281,119,Clothing,Jeans,2,232,active
+282,109,Home & Kitchen,Mixer,5,770,inactive
+283,102,Electronics,Smartphone,2,524,inactive
+284,114,Electronics,Tablet,1,428,inactive
+285,113,Clothing,T-Shirt,3,369,inactive
+286,102,Home & Kitchen,Coffee Maker,1,128,active
+287,104,Electronics,Smartphone,1,186,inactive
+288,117,Clothing,Jacket,5,2000,inactive
+289,113,Home & Kitchen,Coffee Maker,1,137,inactive
+290,107,Clothing,Shorts,3,1272,active
+291,118,Clothing,Jeans,4,1432,active
+292,111,Home & Kitchen,Mixer,2,92,active
+293,102,Electronics,Laptop,5,325,active
+294,101,Home & Kitchen,Toaster,2,490,inactive
+295,115,Home & Kitchen,Toaster,2,132,active
+296,110,Home & Kitchen,Mixer,5,1765,inactive
+297,115,Electronics,Headphones,3,438,active
+298,109,Home & Kitchen,Blender,4,1504,inactive
+299,105,Clothing,T-Shirt,5,690,active
+300,119,Electronics,Headphones,1,269,active
+301,104,Home & Kitchen,Toaster,2,386,inactive
+302,108,Electronics,Smartphone,3,1467,active
+303,103,Clothing,Shorts,3,516,inactive
+304,108,Clothing,Sweater,2,256,inactive
+305,103,Clothing,Jeans,2,348,active
+306,119,Home & Kitchen,Coffee Maker,1,228,inactive
+307,116,Clothing,T-Shirt,3,1404,active
+308,119,Clothing,Jacket,4,364,inactive
+309,111,Electronics,Laptop,4,692,inactive
+310,105,Home & Kitchen,Mixer,4,344,inactive
+311,104,Clothing,Shorts,4,1216,active
+312,102,Home & Kitchen,Toaster,3,690,active
+313,102,Home & Kitchen,Coffee Maker,3,417,inactive
+314,118,Home & Kitchen,Blender,1,55,active
+315,115,Home & Kitchen,Blender,4,1036,inactive
+316,120,Electronics,Tablet,5,2285,active
+317,108,Clothing,Sweater,1,477,inactive
+318,105,Clothing,Jacket,3,945,inactive
+319,115,Electronics,Headphones,5,455,active
+320,105,Clothing,Shorts,5,1440,inactive
+321,120,Home & Kitchen,Microwave,2,78,active
+322,113,Clothing,Jeans,5,1010,inactive
+323,101,Home & Kitchen,Coffee Maker,3,1203,active
+324,104,Home & Kitchen,Coffee Maker,5,2135,active
+325,112,Electronics,Headphones,3,1131,inactive
+326,104,Home & Kitchen,Blender,4,344,inactive
+327,104,Clothing,Sweater,2,496,active
+328,120,Electronics,Smartwatch,3,1143,inactive
+329,106,Clothing,Shorts,1,173,inactive
+330,109,Clothing,Jacket,5,675,inactive
+331,110,Clothing,T-Shirt,2,586,inactive
+332,112,Home & Kitchen,Toaster,2,964,active
+333,110,Clothing,T-Shirt,1,326,inactive
+334,110,Clothing,Jacket,4,188,inactive
+335,114,Home & Kitchen,Mixer,2,608,inactive
+336,108,Home & Kitchen,Toaster,1,299,inactive
+337,106,Home & Kitchen,Mixer,2,490,active
+338,119,Home & Kitchen,Blender,5,845,active
+339,116,Electronics,Laptop,4,320,inactive
+340,105,Home & Kitchen,Mixer,3,207,active
+341,111,Electronics,Tablet,2,414,active
+342,111,Clothing,Sweater,1,410,inactive
+343,120,Electronics,Headphones,5,750,inactive
+344,114,Home & Kitchen,Coffee Maker,5,1450,inactive
+345,116,Electronics,Tablet,4,656,active
+346,120,Electronics,Smartwatch,2,776,active
+347,117,Clothing,Shorts,3,261,active
+348,106,Clothing,Shorts,3,1197,active
+349,113,Electronics,Laptop,3,930,inactive
+350,102,Home & Kitchen,Mixer,1,109,inactive
+351,111,Home & Kitchen,Blender,5,1200,inactive
+352,101,Electronics,Smartwatch,1,107,inactive
+353,102,Electronics,Tablet,4,1692,active
+354,111,Clothing,Shorts,4,1596,inactive
+355,106,Electronics,Tablet,2,298,inactive
+356,106,Electronics,Smartwatch,2,486,inactive
+357,105,Clothing,Jacket,1,355,active
+358,112,Electronics,Smartwatch,5,1970,inactive
+359,103,Electronics,Smartwatch,4,1788,active
+360,106,Home & Kitchen,Mixer,1,457,inactive
+361,102,Clothing,Jacket,4,1688,active
+362,109,Clothing,Shorts,2,832,active
+363,109,Clothing,T-Shirt,2,874,inactive
+364,106,Home & Kitchen,Coffee Maker,1,287,active
+365,117,Home & Kitchen,Microwave,3,942,active
+366,110,Clothing,T-Shirt,5,455,inactive
+367,120,Clothing,Sweater,1,94,active
+368,116,Home & Kitchen,Mixer,1,337,active
+369,120,Clothing,Sweater,2,286,active
+370,114,Clothing,Sweater,1,262,inactive
+371,112,Electronics,Tablet,2,248,active
+372,118,Clothing,T-Shirt,3,342,inactive
+373,119,Home & Kitchen,Microwave,1,183,inactive
+374,115,Electronics,Smartwatch,3,1002,active
+375,104,Electronics,Tablet,1,390,active
+376,102,Electronics,Laptop,1,219,inactive
+377,116,Electronics,Headphones,3,135,active
+378,113,Clothing,Sweater,5,2475,active
+379,110,Home & Kitchen,Toaster,4,1740,active
+380,119,Home & Kitchen,Coffee Maker,2,348,active
+381,111,Electronics,Tablet,5,1285,active
+382,118,Clothing,Jacket,4,1424,inactive
+383,117,Home & Kitchen,Coffee Maker,3,312,active
+384,104,Electronics,Smartwatch,5,730,active
+385,120,Clothing,Sweater,5,1060,active
+386,109,Electronics,Laptop,5,965,active
+387,107,Clothing,Shorts,2,76,active
+388,107,Home & Kitchen,Mixer,3,1278,inactive
+389,115,Clothing,T-Shirt,1,257,active
+390,118,Clothing,Jeans,5,1335,active
+391,109,Home & Kitchen,Toaster,2,340,inactive
+392,103,Electronics,Smartphone,4,1156,active
+393,114,Clothing,T-Shirt,3,195,inactive
+394,110,Electronics,Laptop,1,366,active
+395,116,Electronics,Smartwatch,3,618,inactive
+396,114,Clothing,Jeans,2,362,active
+397,103,Clothing,T-Shirt,2,536,active
+398,114,Electronics,Tablet,4,700,inactive
+399,106,Clothing,T-Shirt,5,975,inactive
+400,103,Electronics,Smartwatch,3,1488,active
+401,117,Clothing,Sweater,3,99,inactive
+402,105,Clothing,T-Shirt,4,1592,active
+403,102,Electronics,Smartphone,1,119,active
+404,107,Home & Kitchen,Mixer,1,498,active
+405,110,Home & Kitchen,Mixer,2,564,inactive
+406,112,Home & Kitchen,Mixer,3,783,inactive
+407,108,Electronics,Laptop,4,1240,active
+408,105,Home & Kitchen,Toaster,2,608,inactive
+409,116,Electronics,Laptop,3,240,active
+410,105,Clothing,Sweater,1,50,inactive
+411,111,Clothing,Shorts,1,454,inactive
+412,120,Clothing,Sweater,4,328,inactive
+413,111,Home & Kitchen,Mixer,5,2150,active
+414,120,Home & Kitchen,Blender,4,1712,active
+415,108,Home & Kitchen,Blender,1,445,active
+416,118,Home & Kitchen,Coffee Maker,1,85,inactive
+417,103,Home & Kitchen,Toaster,2,828,inactive
+418,104,Clothing,T-Shirt,4,444,inactive
+419,114,Electronics,Smartwatch,1,49,inactive
+420,107,Electronics,Tablet,3,585,active
+421,104,Clothing,Sweater,2,86,inactive
+422,119,Clothing,Shorts,4,224,active
+423,111,Home & Kitchen,Coffee Maker,4,980,active
+424,117,Clothing,Shorts,4,244,active
+425,103,Electronics,Smartphone,3,501,inactive
+426,113,Clothing,T-Shirt,4,244,active
+427,117,Clothing,Sweater,4,1880,inactive
+428,120,Electronics,Smartphone,5,2195,active
+429,103,Clothing,Jacket,1,374,inactive
+430,115,Electronics,Smartphone,2,788,active
+431,109,Clothing,T-Shirt,1,168,inactive
+432,102,Electronics,Headphones,2,246,active
+433,101,Home & Kitchen,Microwave,4,1276,active
+434,109,Electronics,Tablet,5,1085,inactive
+435,113,Electronics,Tablet,5,290,active
+436,118,Electronics,Smartphone,4,476,inactive
+437,118,Home & Kitchen,Microwave,1,336,inactive
+438,104,Clothing,T-Shirt,2,840,active
+439,110,Clothing,T-Shirt,5,2040,inactive
+440,109,Clothing,Jeans,1,226,inactive
+441,106,Electronics,Smartwatch,2,656,active
+442,102,Electronics,Laptop,4,88,active
+443,105,Electronics,Smartphone,5,1000,active
+444,114,Home & Kitchen,Microwave,4,316,active
+445,103,Electronics,Laptop,4,1572,active
+446,112,Electronics,Headphones,3,432,inactive
+447,115,Home & Kitchen,Mixer,1,306,inactive
+448,103,Home & Kitchen,Coffee Maker,2,652,active
+449,112,Home & Kitchen,Coffee Maker,1,235,active
+450,116,Electronics,Smartphone,5,1235,active
+451,107,Home & Kitchen,Coffee Maker,2,640,inactive
+452,118,Clothing,Jeans,4,908,active
+453,106,Home & Kitchen,Coffee Maker,4,1056,inactive
+454,112,Electronics,Smartphone,4,1396,inactive
+455,105,Home & Kitchen,Toaster,4,308,active
+456,117,Electronics,Headphones,2,54,inactive
+457,113,Clothing,Shorts,3,417,active
+458,101,Clothing,Sweater,4,1608,active
+459,105,Electronics,Smartwatch,4,1096,active
+460,120,Clothing,Jacket,5,2235,active
+461,113,Clothing,Sweater,4,212,active
+462,112,Electronics,Laptop,1,483,inactive
+463,110,Clothing,T-Shirt,3,1038,active
+464,103,Home & Kitchen,Coffee Maker,2,778,active
+465,106,Electronics,Smartphone,3,807,active
+466,118,Home & Kitchen,Mixer,2,558,inactive
+467,110,Clothing,T-Shirt,3,78,inactive
+468,114,Home & Kitchen,Coffee Maker,4,1992,active
+469,118,Home & Kitchen,Mixer,5,140,inactive
+470,106,Clothing,Jacket,5,1430,active
+471,120,Clothing,Shorts,2,236,active
+472,118,Electronics,Tablet,2,288,active
+473,118,Clothing,Jacket,1,394,inactive
+474,119,Home & Kitchen,Mixer,2,558,active
+475,113,Home & Kitchen,Microwave,3,1389,inactive
+476,104,Clothing,Shorts,3,396,inactive
+477,103,Clothing,Sweater,4,1636,inactive
+478,116,Clothing,Sweater,3,1092,inactive
+479,111,Home & Kitchen,Coffee Maker,3,1071,inactive
+480,110,Clothing,Jeans,1,394,active
+481,106,Home & Kitchen,Blender,5,865,active
+482,108,Clothing,Sweater,1,349,inactive
+483,101,Clothing,T-Shirt,4,1404,active
+484,118,Clothing,Jacket,3,1380,active
+485,101,Electronics,Headphones,2,758,active
+486,115,Electronics,Smartwatch,1,361,active
+487,103,Clothing,T-Shirt,1,311,active
+488,110,Home & Kitchen,Blender,3,90,inactive
+489,103,Clothing,T-Shirt,3,1290,active
+490,108,Electronics,Smartphone,2,702,inactive
+491,119,Electronics,Smartphone,2,736,inactive
+492,114,Clothing,Shorts,4,1780,active
+493,115,Clothing,T-Shirt,4,1832,inactive
+494,105,Electronics,Smartphone,1,110,active
+495,106,Clothing,Sweater,2,428,inactive
+496,113,Clothing,Shorts,5,1325,inactive
+497,105,Electronics,Smartwatch,2,562,active
+498,117,Electronics,Laptop,1,500,inactive
+499,105,Electronics,Tablet,1,114,inactive
+500,105,Electronics,Tablet,4,940,active
